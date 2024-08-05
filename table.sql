@@ -20,4 +20,3 @@ CREATE TABLE transactions (
 
 INSERT INTO users
 VALUES (1,"Daniya","Daniya");
-
